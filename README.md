@@ -20,17 +20,32 @@
 
 ---
 
-### 👨‍💻 About
+### 👨‍💻 About Me
 
-```text
-Software Engineer based in Chennai, India.
+Software Engineer building modern web applications with a focus on
+frontend engineering, scalable architecture, and problem solving.
 
-I enjoy building scalable web applications,
-solving problems, and turning complex requirements
-into clean and maintainable software.
+I work primarily with **React, TypeScript, and JavaScript**, with hands-on
+experience building reusable components, data-driven interfaces, REST API
+integrations, and state-driven applications.
 
-Currently exploring:
-→ Data Structures & Algorithms
-→ Backend development with Node.js
-→ TypeScript
-→ System Design
+I'm also expanding my backend and system design skills with **Node.js,
+Express.js, SQL, and MongoDB**, while strengthening my fundamentals in
+**Data Structures & Algorithms**.
+
+### ⚡ Tech Stack
+
+**Frontend**
+`React` `TypeScript` `JavaScript` `Redux Toolkit` `HTML` `CSS` `Material UI`
+
+**Backend**
+`Node.js` `Express.js` `REST APIs`
+
+**Database**
+`SQL` `MongoDB`
+
+**Tools**
+`Git` `GitHub` `Postman` `VS Code`
+
+**Currently Learning**
+`Data Structures & Algorithms` `System Design` `Advanced React` `Node.js`
