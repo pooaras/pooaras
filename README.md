@@ -1,9 +1,14 @@
-<!-- Profile Header -->
+<!-- ======================= Profile Header ======================= -->
 
 <h1 align="center">Hey 👋, I'm Pooarasu</h1>
 
 <p align="center">
-  <strong>Software Engineer • React • TypeScript • JavaScript • Node.js</strong>
+  <strong>Software Engineer • Frontend Engineer • Problem Solver</strong>
+</p>
+
+<p align="center">
+  Building modern web applications with
+  <strong>React, TypeScript, JavaScript & Node.js</strong>
 </p>
 
 <p align="center">
@@ -13,39 +18,61 @@
   <a href="https://linkedin.com/in/pooarasu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/pooarasusivaraj2002">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-F7B731?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/pooarasusivaraj2002/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F7B731?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+</p>
+
+<br/>
+
+<!-- ======================= About ======================= -->
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer** focused on building clean, scalable and
+maintainable web applications.
+
+I primarily work with **React, TypeScript and JavaScript**, building
+reusable components, data-driven interfaces, state-driven applications
+and REST API integrations.
+
+I'm also expanding into **backend engineering and system design** with
+**Node.js, Express.js and SQL**, while continuously improving my
+problem-solving skills through **Data Structures & Algorithms**.
+
+---
+
+<!-- ======================= Tech Stack ======================= -->
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,html,css" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<!-- ======================= Current Focus ======================= -->
 
-Software Engineer building modern web applications with a focus on
-frontend engineering, scalable architecture, and problem solving.
+## 🧠 Currently Exploring
 
-I work primarily with **React, TypeScript, and JavaScript**, with hands-on
-experience building reusable components, data-driven interfaces, REST API
-integrations, and state-driven applications.
-
-I'm also expanding my backend and system design skills with **Node.js,
-Express.js, SQL, and MongoDB**, while strengthening my fundamentals in
-**Data Structures & Algorithms**.
-
-### ⚡ Tech Stack
-
-**Frontend**
-`React` `TypeScript` `JavaScript` `Redux Toolkit` `HTML` `CSS` `Material UI`
-
-**Backend**
-`Node.js` `Express.js` `REST APIs`
-
-**Database**
-`SQL` `MongoDB`
-
-**Tools**
-`Git` `GitHub` `Postman` `VS Code`
-
-**Currently Learning**
-`Data Structures & Algorithms` `System Design` `Advanced React` `Node.js`
+```text
+▸ Data Structures & Algorithms
+▸ Advanced React & TypeScript
+▸ Node.js & Backend Engineering
+▸ System Design
+▸ Software Architecture
